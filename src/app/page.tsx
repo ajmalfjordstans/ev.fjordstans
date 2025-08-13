@@ -57,7 +57,7 @@ export default function Home() {
                 <Rocket className="w-6 h-6 text-blue-600" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Future-focused Innovation</h3>
-              <p className="text-gray-600">Cutting-edge technology and forward-thinking approaches for tomorrow's challenges</p>
+              <p className="text-gray-600">Cutting-edge technology and forward-thinking approaches for tomorrow&apos;s challenges</p>
             </div>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-12">What Our Clients Say</h2>
           <div className="relative">
             <div className="mb-8">
-              <p className="text-xl italic mb-6">"Fjordstans brought exceptional expertise to our environmental retrofit project. The results exceeded our expectations in both efficiency and sustainability."</p>
+              <p className="text-xl italic mb-6">&quot;Fjordstans brought exceptional expertise to our environmental retrofit project. The results exceeded our expectations in both efficiency and sustainability.&quot;</p>
               <div className="text-lg font-semibold">— Lisa R.</div>
               <div className="text-sm text-blue-200">Facility Manager</div>
             </div>
@@ -238,7 +238,7 @@ export default function Home() {
       {/* Contact Section */}
       <section className="bg-gray-50 py-20 px-4">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl font-bold text-center mb-12">Let's Build a Greener Future Together</h2>
+          <h2 className="text-4xl font-bold text-center mb-12">Let&apos;s Build a Greener Future Together</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="space-y-6">
               <div className="flex items-center gap-4">
